@@ -69,8 +69,6 @@
   import ratingselect from '../ratingselect/ratingselect.vue';
   import Vue from 'vue';
   import {formatDate} from '../../common/js/date';
-//  const POSITIVE = 0;
-//  const NEGATIVE = 1;
   const ALL = 2;
   export default {
     props: {
